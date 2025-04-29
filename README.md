@@ -15,7 +15,7 @@ Code was tested under Ubuntu 22.04.
 Clone the repo first:
 
 ```Bash
-git clone https://github.com/......
+git clone https://github.com/ICS-MR/Patterned-Assembly-of-Multi-biological-Robots
 cd patternedAssembly
 ```
 
@@ -45,4 +45,4 @@ Open `SimulationExperiments.py`
 
 ## Citation
 
-coming soon
+coming soon...
